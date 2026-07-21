@@ -6,7 +6,7 @@
 
 ## Logo / Favicon
 
-![EA monogram logo](./logo.png)
+<img width="64" height="64" alt="favicon" src="https://github.com/user-attachments/assets/7ae1728e-95d1-4cb6-9ef2-814df2ec4160" />
 
 Monogram "EA" set in the heading typeface, with a single accent dot referencing PureStream (water). Same mark scales down to a favicon (see `favicon.png` in this folder).
 

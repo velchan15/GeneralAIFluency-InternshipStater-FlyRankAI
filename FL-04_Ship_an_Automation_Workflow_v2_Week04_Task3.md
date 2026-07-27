@@ -1,4 +1,4 @@
-# FL-04 – Ship an Automation Workflow v2 - Week 04 Task 4
+# FL-04 – Ship an Automation Workflow v2 - Week 04 Task 3
 
 ## Student
 **Name:** Evelyn Anastasia
